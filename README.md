@@ -1,5 +1,9 @@
 # loong_detect
+
 ~如果你是龙，那也好~  
+
+![Image](./Image.jpg)
+
 一个基于yolov5s的龙图检测ai  
 
 ### 环境准备：  
